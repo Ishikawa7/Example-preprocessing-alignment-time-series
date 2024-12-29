@@ -1,4 +1,4 @@
-# Data Preprocessing for Sala 1 Sensor Data
+# Data Preprocessing steps
 
 This script preprocesses a dataset containing sensor data from Sala 1, encompassing gas, climate, and dust measurements collected over three days. The primary goal is to prepare the data for subsequent analysis and visualization by addressing common data quality issues.
 
